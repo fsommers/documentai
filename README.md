@@ -1,3 +1,3 @@
-# Explorations in Document AI
+# Document AI
 
-A few notebooks and tidbits having to do with Document AI.
+Notebooks and tidbits having to do with Document AI.
